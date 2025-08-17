@@ -49,12 +49,12 @@ const CountryTable = () => {
                 <Table stickyHeader>
                     <TableHead  >
                         <TableRow >
-                            <TableCell sx={{ backgroundColor: "#a7a8a4ff" ,color:'white'}} >ID</TableCell>
-                            <TableCell sx={{ backgroundColor: "#a7a8a4ff" ,color:'white'}}>Flag</TableCell>
-                            <TableCell sx={{ backgroundColor: "#a7a8a4ff" ,color:'white'}}>Name</TableCell>
-                            <TableCell sx={{ backgroundColor: "#a7a8a4ff" ,color:'white'}}>Capital</TableCell>
-                            <TableCell sx={{ backgroundColor: "#a7a8a4ff" ,color:'white'}}>Population</TableCell>
-                            <TableCell sx={{ backgroundColor: "#a7a8a4ff" ,color:'white'}}>Area</TableCell>
+                            <TableCell sx={{ backgroundColor: "#2816efff" ,color:'white'}} >ID</TableCell>
+                            <TableCell sx={{ backgroundColor: "#2816efff" ,color:'white'}}>Flag</TableCell>
+                            <TableCell sx={{ backgroundColor: "#2816efff" ,color:'white'}}>Name</TableCell>
+                            <TableCell sx={{ backgroundColor: "#2816efff" ,color:'white'}}>Capital</TableCell>
+                            <TableCell sx={{ backgroundColor: "#2816efff" ,color:'white'}}>Population</TableCell>
+                            <TableCell sx={{ backgroundColor: "#2816efff" ,color:'white'}}>Area</TableCell>
                         </TableRow>
                     </TableHead>
                     <TableBody>
